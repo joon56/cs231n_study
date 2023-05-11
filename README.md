@@ -9,3 +9,4 @@
 
 ###[lecture3 Blog](https://helloparzival.tistory.com/entry/Computer-Vision-cs231n-lecture3-Loss-Functions-and-Optimization-1)
 
+###[lecture4 Blog](https://helloparzival.tistory.com/entry/Computer-Vision-cs231n-lecture4-Backpropagation-andNeural-Networks-part-1)
